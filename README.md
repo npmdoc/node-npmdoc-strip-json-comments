@@ -1,6 +1,6 @@
 # npmdoc-strip-json-comments
 
-#### api documentation for  [strip-json-comments (v2.0.1)](https://github.com/sindresorhus/strip-json-comments#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-strip-json-comments.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-strip-json-comments) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-strip-json-comments.svg)](https://travis-ci.org/npmdoc/node-npmdoc-strip-json-comments)
+#### basic api documentation for  [strip-json-comments (v2.0.1)](https://github.com/sindresorhus/strip-json-comments#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-strip-json-comments.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-strip-json-comments) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-strip-json-comments.svg)](https://travis-ci.org/npmdoc/node-npmdoc-strip-json-comments)
 
 #### Strip comments from JSON. Lets you use comments in your JSON files!
 
@@ -79,7 +79,8 @@
     "scripts": {
         "test": "xo && ava"
     },
-    "version": "2.0.1"
+    "version": "2.0.1",
+    "bin": {}
 }
 ```
 
